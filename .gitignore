@@ -1,0 +1,10 @@
+build/
+build_rel/
+build_debug/
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+CMakeSettings.json
+out/
